@@ -1,0 +1,288 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "aqua blue floral printed top",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "price": 300,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0306/3336/1547/products/Aqua_Blue_Floral_Printed_Top_400x.png?v=1646134353"
+    },
+    {
+      "id": 2,
+      "name": "black floral printed top",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "price": 400,
+      "imageUrl": "https://i.ebayimg.com/images/g/DuQAAOSwF1VjKR0u/s-l500.jpg"
+    },
+    {
+      "id": 3,
+      "name": "NEW Kookai Womens Blouse Top Size 38 Blue Cropped Long Sleeve Spotted 22603",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "price": 999,
+      "imageUrl": "https://www.dhresource.com/260x260/f2/albu/g20/M01/3E/A5/rBVaqWB6pquAO4gpAAKvTUrFF_o624.jpg"
+    },
+    {
+      "id": 4,
+      "name": "aqua blue floral printed top",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "price": 496,
+      "imageUrl": "https://m.media-amazon.com/images/I/51ds0WQ+dnL._UL1088_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "aqua blue floral printed top",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "price": 300,
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l29c9e80/top/u/m/j/m-dfs-singham-original-imagdnfygpb2jhjg.jpeg?q=70"
+    },
+    {
+      "id": 6,
+      "name": "Belle Poque Women Vintage Lantern Sleeve Blouse Ruched Sweetheart Neck Peplum Top",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "price": 300,
+      "imageUrl": "https://m.media-amazon.com/images/I/61IMm9pmwUL._AC_UY500_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "aqua blue floral printed top",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "price": 690,
+      "imageUrl": "https://m.media-amazon.com/images/I/81pmJIskdkL._AC_UY500_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Belle Poque V Neck Puff Sleeve Blouse Vintage Shirts for Women",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "price": 300,
+      "imageUrl": "https://m.media-amazon.com/images/I/71m-xT5tMtL._AC_UX425_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Belle Poque Women Vintage Ruched Tops Square Neck Puff Short Sleeve Cotton Shirt",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "price": 345,
+      "imageUrl": "https://m.media-amazon.com/images/I/5122ch0B-hL._AC_UX425_.jpg"
+    },
+    {
+      "id": 10,
+      "name": "aqua blue floral printed top",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "price": 1289,
+      "imageUrl": "https://m.media-amazon.com/images/I/316BPbMYYDL.jpg"
+    },
+    {
+      "id": 11,
+      "name": "short korean top",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "price": 656,
+      "imageUrl": "https://www.dhresource.com/0x0/f2/albu/g9/M01/E9/14/rBVaWF4OsjqASDoFAAFLGY7LCrE174.jpg"
+    },
+    {
+      "id": 12,
+      "name": "green plaid top",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "price": 356,
+      "imageUrl": "https://www.dhresource.com/0x0/f2/albu/g8/M01/57/15/rBVaVF5u7AuAf7FbAAL9F1RG1Tc606.jpg"
+    },
+    {
+      "id": 13,
+      "name": "croptop top",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "price": 500,
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/top/l/y/j/xl-woman-top-nvh-original-imagj2nzzkbngvzh.jpeg?q=70"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 5
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "aqua blue floral printed top",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+        "price": 300,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0306/3336/1547/products/Aqua_Blue_Floral_Printed_Top_400x.png?v=1646134353"
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "aqua blue floral printed top",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+        "price": 300,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0306/3336/1547/products/Aqua_Blue_Floral_Printed_Top_400x.png?v=1646134353"
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "aqua blue floral printed top",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+        "price": 300,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0306/3336/1547/products/Aqua_Blue_Floral_Printed_Top_400x.png?v=1646134353"
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "aqua blue floral printed top",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+        "price": 300,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0306/3336/1547/products/Aqua_Blue_Floral_Printed_Top_400x.png?v=1646134353"
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "black floral printed top",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+        "price": 400,
+        "imageUrl": "https://m.media-amazon.com/images/I/71dnLLtrCVL._UX569_.jpg"
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "aqua blue floral printed top",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+        "price": 999,
+        "imageUrl": "https://www.dhresource.com/260x260/f2/albu/g20/M01/3E/A5/rBVaqWB6pquAO4gpAAKvTUrFF_o624.jpg"
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "aqua blue floral printed top",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+        "price": 999,
+        "imageUrl": "https://www.dhresource.com/260x260/f2/albu/g20/M01/3E/A5/rBVaqWB6pquAO4gpAAKvTUrFF_o624.jpg"
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "black floral printed top",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+        "price": 400,
+        "imageUrl": "https://m.media-amazon.com/images/I/71dnLLtrCVL._UX569_.jpg"
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "aqua blue floral printed top",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+        "price": 300,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0306/3336/1547/products/Aqua_Blue_Floral_Printed_Top_400x.png?v=1646134353"
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "black floral printed top",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+        "price": 400,
+        "imageUrl": "https://i.ebayimg.com/images/g/DuQAAOSwF1VjKR0u/s-l500.jpg"
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "aqua blue floral printed top",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+        "price": 300,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0306/3336/1547/products/Aqua_Blue_Floral_Printed_Top_400x.png?v=1646134353"
+      },
+      "id": 11
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "aqua blue floral printed top",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+        "price": 300,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0306/3336/1547/products/Aqua_Blue_Floral_Printed_Top_400x.png?v=1646134353"
+      },
+      "id": 12
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "aqua blue floral printed top",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+        "price": 300,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0306/3336/1547/products/Aqua_Blue_Floral_Printed_Top_400x.png?v=1646134353"
+      },
+      "id": 13
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "black floral printed top",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+        "price": 400,
+        "imageUrl": "https://i.ebayimg.com/images/g/DuQAAOSwF1VjKR0u/s-l500.jpg"
+      },
+      "id": 14
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "black floral printed top",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+        "price": 400,
+        "imageUrl": "https://i.ebayimg.com/images/g/DuQAAOSwF1VjKR0u/s-l500.jpg"
+      },
+      "id": 15
+    },
+    {
+      "product": {
+        "id": 6,
+        "name": "Belle Poque Women Vintage Lantern Sleeve Blouse Ruched Sweetheart Neck Peplum Top",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+        "price": 300,
+        "imageUrl": "https://m.media-amazon.com/images/I/61IMm9pmwUL._AC_UY500_.jpg"
+      },
+      "id": 16
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
